@@ -1,4 +1,5 @@
-print("commitwed")
+newWord = 'New Lesson'
+print("This is a {}", newWord)
 
 print('Hello World!')
 
