@@ -16,4 +16,3 @@ if operation1%5 == 0 and operation2%4 == 0  :
 
 
 
-k
