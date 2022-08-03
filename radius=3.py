@@ -1,5 +1,5 @@
 radius=3
-def AreaofCirc:
+def AreaofCirc(radius):
     AreaofCirc= math.pi*radius**2
 
-return AreaofCirc
+    return AreaofCirc
