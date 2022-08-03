@@ -1,6 +1,6 @@
-str(rock)=4
-str(paper)=5
-str(scissors)=6
+int(rock)=1
+int(paper)=2
+int(scissors)=3
 
 operation1= input("What will you play:" )
 
