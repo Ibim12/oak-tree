@@ -16,3 +16,10 @@ if operation1%5 == 0 and operation2%4 == 0  :
 
 
 
+input("What will you play :  ")
+operation1= input()
+
+
+operation2= input()
+
+print(operation1,operation2)
