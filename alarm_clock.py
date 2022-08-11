@@ -34,7 +34,7 @@ def alarm():
 			print("Time to Wake up")
 			# Playing sound
 			winsound.PlaySound("sound.wav",winsound.SND_ASYNC)
-
+            time.sleep(60)
 # Add Labels, Frame, Button, Optionmenus
 Label(root,text="Alarm Clock",font=("Helvetica 20 bold"),fg="red").pack(pady=10)
 Label(root,text="Set Time",font=("Helvetica 15 bold")).pack()
